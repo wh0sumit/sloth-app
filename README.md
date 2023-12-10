@@ -1,8 +1,6 @@
+# sloth
 
-# BrivApp
-
-A completely decentralised chatting application that focuses on privacy and security of the users. 
-
+A completely decentralised chatting application that focuses on privacy and security of the users.
 
 ## Features
 
@@ -10,9 +8,7 @@ A completely decentralised chatting application that focuses on privacy and secu
 - Fullscreen mode
 - Cross platform
 - Metamask integrated
-- Completly decentralized 
-
-
+- Completly decentralized
 
 ## Authors
 
@@ -27,12 +23,8 @@ To deploy this project run
   npm start
 ```
 
-
-
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
 
 ## Tech Stack
 
@@ -40,14 +32,14 @@ To deploy this project run
 
 **Others:** Solidity
 
-
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/79564956/205471458-4d5c76b5-6c2e-4d6c-bed2-804fd1ec0700.png)
 
 ![image](https://user-images.githubusercontent.com/79564956/205471479-a9cae97a-6df8-4e6b-9ea2-94c46e622256.png)
 
-### Mobile Friendliness 
+### Mobile Friendliness
+
 ![image](https://user-images.githubusercontent.com/79564956/205471543-587a8044-0eec-44ef-b170-cb980263c5c7.png)
 
 ### Gone Light mode
@@ -58,15 +50,13 @@ To deploy this project run
 
 ![image](https://user-images.githubusercontent.com/79564956/205471623-f4d4f27d-2ae5-4611-adbb-292c4bcf6905.png)
 
-
-
 ## FAQ
 
 #### I cant open this?
 
-Just install the [MetaMask](https://metamask.io/) extention and try. 
+Just install the [MetaMask](https://metamask.io/) extention and try.
 
 #### Do i run on a potato PC
 
 Absolutely Yeah!!
-
+"# sloth-app" 
